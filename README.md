@@ -1,9 +1,9 @@
 # Overlooked Covariates in Metabolite Abundances
-Identifying metabolic trends in patient and cell line cancers as well as their covariation with transcriptomic factors and external "metadata".
 
-Utilizes Cancer Cell Line Encyclopedia data and the Cancer Atlas of Metabolic Profiles as testing datasets
 
-Abstract:
+## **Abstract:**
+
+
 Dysregulated metabolism is a hallmark of cancer progression yet exactly how cancer cells vary their
 metabolic program during tumorigenesis remains unknown. Moreover, metabolism is highly
 dynamic, which makes it challenging to study experimentally. Previous computational approaches
@@ -24,3 +24,9 @@ data to those from real tumors. Results of this study provide a standardized pro
 the complex relationship between transcriptome and metabolome. Furthermore, these methods have
 the potential to significantly advance our understanding of metabolic drug resistance and immune
 response.
+
+
+## **Awards:** 
+1. Regeneron Science Talent Search 2nd Place ($175,000 Prize)
+2. ISEF Finalist
+3. NY Science and Engineering Fair 1st Place in Computational Biology and Bioinformatics
